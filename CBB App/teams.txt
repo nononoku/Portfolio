@@ -1,0 +1,1399 @@
+Albany
+18
+AEC
+
+Binghamton
+10
+AEC
+
+Hartford
+14
+AEC
+
+Maine
+14
+AEC
+
+UMBC
+25
+AEC
+
+UMass Lowell
+15
+AEC
+
+New Hampshire
+12
+AEC
+
+NJIT
+10
+AEC
+
+Stony Brook
+16
+AEC
+
+Vermont
+20
+AEC
+
+UCF
+40
+AAC
+
+Cincinnati
+70
+AAC
+
+East Carolina
+25
+AAC
+
+Houston
+65
+AAC
+
+Memphis
+73
+AAC
+
+USF
+25
+AAC
+
+SMU
+53
+AAC
+
+Temple
+55
+AAC
+
+Tulane
+38
+AAC
+
+Tulsa
+45
+AAC
+
+Wichita State
+62
+AAC
+
+George Mason
+40
+A10
+
+George Washington
+45
+A10
+
+La Salle
+33
+A10
+
+Rhode Island
+60
+A10
+
+Richmond
+50
+A10
+
+St. Bonaventure
+45
+A10
+
+Saint Joseph's
+58
+A10
+
+Saint Louis
+57
+A10
+
+VCU
+70
+A10
+
+Davidson
+55
+A10
+
+Dayton
+72
+A10
+
+Duquesne
+20
+A10
+
+Fordham
+10
+A10
+
+UMass
+40
+A10
+
+Boston College
+55
+ACC
+
+Clemson
+40
+ACC
+
+Duke
+95
+ACC
+
+Florida State
+74
+ACC
+
+Georgia Tech
+55
+ACC
+
+Louisville
+85
+ACC
+
+Miami (FL)
+65
+ACC
+
+North Carolina
+90
+ACC
+
+NC State
+75 	
+ACC
+
+Pitt
+50
+ACC
+
+Syracuse
+70
+ACC
+
+Virginia
+89
+ACC
+
+Virginia Tech
+56
+ACC
+
+Wake Forest
+52
+ACC
+
+Notre Dame
+70
+ACC
+
+FGCU
+20
+Atlantic Sun
+
+Lipscomb
+5
+Atlantic Sun
+
+North Florida
+5
+Atlantic Sun
+
+Stetson
+5
+Atlantic Sun
+
+Jacksonville
+15
+Atlantic Sun
+
+Kennesaw State
+5
+Atlantic Sun
+
+Liberty
+10
+Atlantic Sun
+
+Baylor
+75
+Big 12
+
+Iowa State
+70
+Big 12
+
+Kansas
+90
+Big 12
+
+Kansas State
+50
+Big 12
+
+Oklahoma
+60
+Big 12
+
+Oklahoma State
+50
+Big 12
+
+Texas
+55
+Big 12
+
+TCU
+45
+Big 12
+
+Texas Tech
+70
+Big 12
+
+West Virginia
+75
+Big 12
+
+UConn
+60
+Big East
+
+Creighton
+75
+Big East
+
+DePaul
+40
+Big East
+
+Marquette
+65
+Big East
+
+Providence
+65
+Big East
+
+St. John's
+35
+Big East
+
+Seton Hall
+70
+Big East
+
+Villanova
+90
+Big East
+
+Xavier
+72
+Big East
+
+Butler
+65
+Big East
+
+Georgetown
+50
+Big East
+
+Sacramento State
+10
+Big Sky
+
+Eastern Washington
+15
+Big Sky
+
+Idaho
+15
+Big Sky
+
+Idaho State
+5
+Big Sky
+
+Montana
+20
+Big Sky
+
+Montana State
+5
+Big Sky
+
+Northern Arizona
+10
+Big Sky
+
+Northern Colorado
+10
+Big Sky
+
+Portland State
+10
+Big Sky
+
+Southern Utah
+10
+Big Sky
+
+Weber State
+10
+Big Sky
+
+Campbell
+20
+Big South
+
+Charleston Southern
+15
+Big South
+
+Gardner-Webb
+30
+Big South
+
+Hampton
+10
+Big South
+
+High Point
+10
+Big South
+
+Longwood
+10
+Big South
+
+UNC Asheville
+20
+Big South
+
+Radford
+25
+Big South
+
+USC Upstate
+10
+Big South
+
+Winthrop
+20
+Big South
+
+Presbyterian
+5
+Big South
+
+Illinois
+50
+Big Ten
+
+Indiana
+57
+Big Ten
+
+Iowa
+74
+Big Ten
+
+Maryland
+80
+Big Ten
+
+Michigan
+87
+Big Ten
+
+Michigan State
+87
+Big Ten
+
+Minnesota
+66
+Big Ten
+
+Nebraska
+50
+Big Ten
+
+Northwestern
+40
+Big Ten
+
+Ohio State
+70
+Big Ten
+
+Penn State
+50
+Big Ten
+
+Purdue
+73
+Big Ten
+
+Rutgers
+45
+Big Ten
+
+Wisconsin
+83
+Big Ten
+
+UC Irvine
+25
+Big West
+
+UC Riverside
+17
+Big West
+
+UC Santa Barbara
+10
+Big West
+
+Cal State Bakersfield
+5
+Big West
+
+Cal State Fullerton
+5
+Big West
+
+Long Beach State
+8
+Big West
+
+Cal State Northridge
+23
+Big West
+
+UC Davis
+15
+Big West
+
+Cal Poly
+2
+Big West
+
+Hawaii
+35
+Big West
+
+College of Charleston
+30
+Colonial
+
+Delaware
+20
+Colonial
+
+Drexel
+15
+Colonial
+
+Elon
+10
+Colonial
+
+Hofstra
+10
+Colonial
+
+James Madison
+20
+Colonial
+
+UNC Wilmington
+20
+Colonial
+
+Northeastern
+9
+Colonial
+
+Towson
+13
+Colonial
+
+William & Mary
+17
+Colonial
+
+UAB
+25
+CUSA
+
+Florida Atlantic
+23
+CUSA
+
+FIU
+25
+CUSA
+
+Louisiana Tech
+30
+CUSA
+
+Marshall
+35
+CUSA
+
+Middle Tennessee
+40
+CUSA
+
+Charlotte
+20
+CUSA
+
+North Texas
+15
+CUSA
+
+Old Dominion
+10
+CUSA
+
+Rice
+5
+CUSA
+
+Southern Miss
+25
+CUSA
+
+UTEP
+3
+CUSA
+
+UTSA
+5
+CUSA
+
+Western Kentucky
+20
+CUSA
+
+Cleveland State
+20
+Horizon League
+
+Detroit
+12
+Horizon League
+
+UIC
+7
+Horizon League
+
+IUPUI
+1
+Horizon League
+
+Northern Kentucky
+40
+Horizon League
+
+Oakland
+15
+Horizon League
+
+Fort Wayne
+10
+Horizon League
+
+Robert Morris
+13
+Horizon League
+
+Green Bay
+10
+Horizon League
+
+Milwaukee
+10
+Horizon League
+
+Wright State
+10
+Horizon League
+
+Youngstown State
+15
+Horizon League
+
+Brown
+20
+Ivy League
+
+Columbia
+22
+Ivy League
+
+Cornell
+25
+Ivy League
+
+Dartmouth
+10
+Ivy League
+
+Harvard
+30
+Ivy League
+
+Penn
+30
+Ivy League
+
+Princeton
+30
+Ivy League
+
+Yale
+35
+Ivy League
+
+Canisius
+15
+Metro Atlantic
+
+Fairfield
+20
+Metro Atlantic
+
+Iona
+30
+Metro Atlantic
+
+Manhattan
+15
+Metro Atlantic
+
+Niagara
+10
+Metro Atlantic
+
+Quinnipiac
+15
+Metro Atlantic
+
+Rider
+20
+Metro Atlantic
+
+Saint Peter's
+10
+Metro Atlantic
+
+Siena
+10
+Metro Atlantic
+
+Marist
+4
+Metro Atlantic
+
+Monmouth
+16
+Metro Atlantic
+
+Akron
+20
+MAC
+
+Ball State
+15
+MAC
+
+Bowling Green
+20
+MAC
+
+Buffalo
+40
+MAC
+
+Central Michigan
+15
+MAC
+
+Eastern Michigan
+14
+MAC
+
+Kent State
+20
+MAC
+
+Miami (OH)
+15
+MAC
+
+Northern Illinois
+25
+MAC
+
+Ohio
+10
+MAC
+
+Toledo
+10
+MAC
+
+Western Michigan
+15
+MAC
+
+Bethune-Cookman
+20
+MEAC
+
+Coppin State
+10
+MEAC
+
+Delaware State
+10
+MEAC
+
+Florida A&M
+10
+MEAC
+
+Howard
+15
+MEAC
+
+Maryland Eastern Shore
+17
+MEAC
+
+Morgan State
+15
+MEAC
+
+Norfolk State
+15
+MEAC
+
+North Carolina Central
+16
+MEAC
+
+South Carolina State
+10
+MEAC
+
+North Carolina A&T
+15
+MEAC
+
+Bradley
+15
+Missouri Valley
+
+Evansville
+20
+Missouri Valley
+
+Loyola-Chicago
+30
+Missouri Valley
+
+Drake
+5
+Missouri Valley
+
+Valparaiso 
+10
+Missouri Valley
+
+Illinois State
+4
+Missouri Valley
+
+Indiana State
+5
+Missouri Valley
+
+Missouri State
+15
+Missouri Valley
+
+Northern Iowa
+26
+Missouri Valley
+
+Southern Illinois
+15
+Missouri Valley
+
+Boise State
+20
+Mountain West
+
+Fresno State
+25
+Mountain West
+
+Colorado State
+10
+Mountain West
+
+UNLV
+25
+Mountain West
+
+Nevada
+30
+Mountain West
+
+New Mexico
+16
+Mountain West
+
+San Diego State
+45
+Mountain West
+
+San Jose State
+20
+Mountain West
+
+Air Force
+20
+Mountain West
+
+Utah State
+30
+Mountain West
+
+Wyoming
+10
+Mountain West
+
+Bryant
+15
+Northeast
+
+Central Connecticut
+10
+Northeast
+
+Fairleigh Dickinson
+7
+Northeast
+
+LIU
+10
+Northeast
+
+Mount St. Mary's
+15
+Northeast
+
+Sacred Heart
+15
+Northeast
+
+St. Francis Brooklyn
+5
+Northeast
+
+Saint Francis (PA)
+5
+Northeast
+
+Wagner
+10
+Northeast
+
+Austin Peay
+10
+Ohio Valley
+
+Belmont
+25
+Ohio Valley
+
+Eastern Illinois
+5
+Ohio Valley
+
+Eastern Kentucky
+6
+Ohio Valley
+
+Jacksonville State
+3
+Ohio Valley
+
+Murray State
+23
+Ohio Valley
+
+Southeast Missouri
+10
+Ohio Valley
+
+SIU Edwardsville
+10
+Ohio Valley
+
+UT Martin
+10
+Ohio Valley
+
+Tennessee State
+15
+Ohio Valley
+
+Tennessee Tech
+10
+Ohio Valley
+
+Morehead State
+10
+Ohio Valley
+
+Arizona
+85
+PAC-12
+
+Arizona State
+75
+PAC-12
+
+Cal
+40
+PAC-12
+
+UCLA
+80
+PAC-12
+
+Colorado
+60
+PAC-12
+
+Oregon
+85
+PAC-12
+
+Oregon State
+35
+PAC-12
+
+USC
+55
+PAC-12
+
+Stanford
+50
+PAC-12
+
+Utah
+55
+PAC-12
+
+Washington
+50
+PAC-12
+
+Washington State
+49
+PAC-12
+
+American
+27
+Patriot League
+
+Boston University
+17
+Patriot League
+
+Bucknell
+28
+Patriot League
+
+Colgate
+18
+Patriot League
+
+Holy Cross
+27
+Patriot League
+
+Lafayette
+10
+Patriot League
+
+Lehigh
+20
+Patriot League
+
+Loyola (MD)
+10
+Patriot League
+
+Army
+20
+Patriot League
+
+Navy
+25
+Patriot League
+
+Alabama
+60
+SEC
+
+Arkansas
+55
+SEC
+
+Auburn
+77
+SEC
+
+Florida
+80
+SEC
+
+Georgia
+55
+SEC
+
+Kentucky
+95
+SEC
+
+LSU
+70
+SEC
+
+Ole Miss
+50
+SEC
+
+Mississippi State
+55
+SEC
+
+Missouri
+45
+SEC
+
+South Carolina
+60
+SEC
+
+Tennessee
+75
+SEC
+
+Texas A&M
+70
+SEC
+
+Vanderbilt
+45
+SEC
+
+The Citadel
+10
+Southern
+
+ETSU
+10
+Southern
+
+Furman
+20
+Southern
+
+Mercer
+15
+Southern
+
+UNC Greensboro
+10
+Southern
+
+Samford
+10
+Southern
+
+Chattanooga
+15
+Southern
+
+VMI
+5
+Southern
+
+Western Carolina
+5
+Southern
+
+Wofford
+30
+Southern
+
+Abilene Christian
+10
+Southland
+
+Central Arkansas
+10
+Southland
+
+Houston Baptist
+10
+Southland
+
+Incarnate Word
+15
+Southland
+
+Lamar
+15
+Southland
+
+McNeese State
+10
+Southland
+
+New Orleans
+5
+Southland
+
+Nicholls
+10
+Southland
+
+Northwestern State
+10
+Southland
+
+Sam Houston State
+4
+Southland
+
+Southeastern Louisiana
+3
+Southland
+
+Stephen F. Austin
+40
+Southland
+
+Corpus Christi
+10
+Southland
+
+Alabama A&M
+0
+SWAC
+
+Alabama State
+18
+SWAC
+
+Alcorn State
+15
+SWAC
+
+Arkansas-Pine Bluff
+3
+SWAC
+
+Grambling
+10
+SWAC
+
+Jackson State
+10
+SWAC
+
+Mississippi Valley State
+10
+SWAC
+
+Prairie View A&M
+10
+SWAC
+
+Southern
+15
+SWAC
+
+Texas Southern
+25
+SWAC
+
+Appalachian State
+23
+Sun Belt
+
+Little Rock
+10
+Sun Belt
+
+Arkansas State
+10
+Sun Belt
+
+Coastal Carolina
+15
+Sun Belt
+
+Georgia Southern
+20
+Sun Belt
+
+Georgia State
+28
+Sun Belt
+
+Louisiana
+15
+Sun Belt
+
+Louisiana Monroe
+15
+Sun Belt
+
+South Alabama
+10
+Sun Belt
+
+Arlington
+15
+Sun Belt
+
+Texas State
+13
+Sun Belt
+
+Troy
+20
+Sun Belt
+
+Denver
+10
+Summit League
+
+Kansas City
+5
+Summit League
+
+Omaha
+5
+Summit League
+
+Oral Roberts
+5
+Summit League
+
+North Dakota State
+20
+Summit League
+
+South Dakota
+15
+Summit League
+
+South Dakota State
+25
+Summit League
+
+Western Illinois
+10
+Summit League
+
+North Dakota
+15
+Summit League
+
+BYU
+60
+West Coast
+
+Gonzaga
+90
+West Coast
+
+Loyola Marymount
+35
+West Coast
+
+Pacific
+25
+West Coast
+
+Pepperdine
+20
+West Coast
+
+Portland
+20
+West Coast
+
+Saint Mary's
+60
+West Coast
+
+San Francisco
+50
+West Coast
+
+Santa Clara
+20
+West Coast
+
+San Diego
+30
+West Coast
+
+Chicago State
+10
+Western Athletic
+
+Grand Canyon
+15
+Western Athletic
+
+Seattle
+10
+Western Athletic
+
+UTRGV
+15
+Western Athletic
+
+Utah Valley
+10
+Western Athletic
+
+New Mexico State
+25
+Western Athletic
