@@ -23,10 +23,10 @@ def main():
     words = []
     with open("words.txt") as w:
         words = w.readlines()
-        word = random.choice(words)
+        word = random.choice(words[10656:]) # Start of acceptable words
         word = word.strip().upper()   
-    for wo in words:
-        wo = wo.strip()
+    for i, wo in enumerate(words):
+        words[i] = wo.strip().upper()
 
     # Set letter boxes
     letterBoxes = []
@@ -56,7 +56,8 @@ def main():
                 index -= 1
                 row[index][0].setText("")
                 guessWord = guessWord[:-1]
-            elif (index == 5 and key == "Return"):
+            elif (index == 5 and key == "Return" and
+                  (guessWord.strip() in words)):
                 break
         guessedLetters = ""
         for i, char in enumerate(guessWord):
