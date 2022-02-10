@@ -1,10 +1,10 @@
 Noah Kuperberg's Portfolio
-Updated 2/4/2022
+Updated 2/9/2022
 
 About these files:
 In this portfolio, you will find a collection of games coded in python that I
-coded in my free time. The most extensive, and also one of my earliest and
-messiest projects is the College Basketball Coach game. 
+coded in my free time. The most extensive, and also one of my earliest 
+projects is the College Basketball Coach game. 
 
 Notable Absences:
 The vast majority of code that I write right now is through my university, and 
